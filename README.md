@@ -1,5 +1,6 @@
 # Studenty
-Studenty será uma rede social, que ligará os alunos(E.E.) com a sala de aula, trazendo mais interatividade, conectividade e iniciativa. 
+
+O propósito inicial do Studenty é unir alunos da rede de ensino estadual, fazendo com que se sintam mais envolvidos tecnologicamente ao ensino. Compreendemos que hoje em dia os adolescentes estão cada vez mais conectados em seus Smartphones, pensando nisso, nosso intuito é desviar a atenção dos alunos das atuais redes sociais conhecidas e trazê-los ao Studenty para trocar informações uteis, como dia de prova, horário de prova, conteúdo da prova, dia de entrega de atividades, horário das aulas e muito mais. Nós do Studenty desejamos um ótimo ano letivo a todos os alunos e professores.  
 
 
 # Metas para 2020 
