@@ -9,7 +9,7 @@ A iniciativa de criação do Studenty é: unir alunos da Rede Estadual de Ensino
 
 
 
-* Metas para 2020 
+* Metas para primeiro semestre de 2020 
 
 -Criar página de cadastro e login, com conectividade com Facebook e Google
 
