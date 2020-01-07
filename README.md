@@ -18,4 +18,4 @@ A iniciativa de criação do Studenty é: unir alunos da Rede Estadual de Ensino
 
 * Criar página que alimenta a página de lembrete, que no caso fica responsável pelo representante de sala fazer a publicação(LIBERADO APENAS PARA USUÁRIOS MESTRES)
 
-*Criar página de lembrete(INFORMAR DATA, HORÁRIO, SALA E PROFESSOR QUANDO HOUVER UMA PROVA)
+* Criar página de lembrete(INFORMAR DATA, HORÁRIO, SALA E PROFESSOR QUANDO HOUVER UMA PROVA)
